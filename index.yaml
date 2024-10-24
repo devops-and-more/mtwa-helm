@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mtwa:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-10-24T22:46:24.424314048+02:00"
+    description: A Helm chart for multi-tier web application
+    digest: 85cc2edcfc0f997b3b1c0049c1218e32ecf2797fb01318cc33b0c7ebab21e3fc
+    name: mtwa
+    urls:
+    - https://devops-and-more.github.io/mtwa-helm/mtwa-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-24T22:46:24.419847248+02:00"
